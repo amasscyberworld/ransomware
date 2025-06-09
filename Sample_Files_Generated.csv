@@ -1,0 +1,5 @@
+Benign Samples,Ransomware Samples
+doc1.docx,worm1.exe
+text.txt,crypto1.exe
+image.jpg,virus.exe
+invoice.pdf,ransom.docx
